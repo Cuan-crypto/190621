@@ -19,4 +19,5 @@ image:
   filename: markus-winkler-afw1hht0nss-unsplash.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 ---
