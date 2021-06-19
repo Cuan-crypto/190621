@@ -16,8 +16,8 @@ featured: true
 tags:
   - methods
 image:
-  filename: markus-winkler-afw1hht0nss-unsplash.jpg
+  filename: https://unsplash.com/photos/afW1hht0NSs
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/afW1hht0NSs)"
 ---
