@@ -17,7 +17,7 @@ tags:
   - methods
 image:
   filename: https://unsplash.com/photos/afW1hht0NSs
-  focal_point: Smart
+  focal_point: right
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/afW1hht0NSs)"
 ---
