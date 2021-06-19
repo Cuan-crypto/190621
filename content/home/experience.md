@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Employment
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Fellow
+    company: Campbell UK & Ireland
+    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+    # company_logo: org-gc
+    location: Belfast
+    date_start: '2017-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Advancing evidence synthesis methods
+        * Leading review teams
+        * Mentoring other staff
+        * Teaching
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Associate Director
+    company: Cochrane Ireland
+    company_url: 'https://ireland.cochrane.org/welcome'
+    #company_logo: org-x
+    location: Galway
+    date_start: '2020-06-01'
+    date_end: '2020-12-09'
+    description: A leadership responsibility for the activities of Cochrane Ireland with a focus on developing and maintaining strategic partnerships in the Cochrane community 
 
 design:
   columns: '2'

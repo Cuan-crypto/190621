@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+title: 'Continuing Professional Development'
+subtitle: 'Recent learning activities to develop and enhance my skills'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,29 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ''
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2019-04-17"
+  description: A workshop on network meta-anaylsis with world leading methodologist Professor Pigot
+  organization: Centre for Evidence and Social Innovation
+  organization_url: https://www.qub.ac.uk/research-centres/cesi/
+  title: Network Meta-Analysis
+  url: https://www.qub.ac.uk/research-centres/CampbellUKIreland/News/IntroductiontoNetworkMeta-Analysis.html
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2018-12-01"
+  description: A three-day workshop on conducting Meta-Analyses in R using the metafor package. The workshop was facilitated by the author of the package and covered everything from effect size calculations to network meta-analysis
+  organization: Wolfgang Viechtbauer
+  organization_url: http://www.wvbauer.com/doku.php/course_ma
+  title: 'Meta-Analyses in R'
   url: ""
 
 design:
