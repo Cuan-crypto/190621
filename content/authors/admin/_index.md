@@ -49,15 +49,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MetaEvidence
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,4 +68,4 @@ My name is Ciara Keenan and I am a post-doctoral researcher with strong quantita
 
 I am most committed to capacity building in evidence synthesis which has led to my work as Founder and Editor of the [meta-evidence blog]( http://meta-evidence.co.uk/) and twitter’s [@evidencerobot]( https://twitter.com/EvidenceRobot) and [@COVID_Evidence](https://twitter.com/COVID_Evidence). I provide regular training and workshops across various evidence synthesis topics and am currently leading several review teams. In conjunction with these roles, I am a Methods Editor and Information Retrieval specialist for Campbell’s Education Coordinating Group (ECG).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
