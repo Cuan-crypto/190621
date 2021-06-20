@@ -40,7 +40,7 @@ experience:
   - title: Associate Director
     company: Cochrane Ireland
     company_url: 'https://ireland.cochrane.org/welcome'
-    #company_logo: org-x
+    # company_logo: org-x
     location: Galway
     date_start: '2020-06-01'
     date_end: '2020-12-09'
@@ -63,6 +63,7 @@ experience:
     date_start: '2017-03-01'
     date_end: '2017-10-01'
     description: 
+    
 design:
   columns: '2'
 ---
