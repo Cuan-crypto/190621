@@ -32,6 +32,14 @@ feature:
   icon : laptop-code
   icon_pack : fas
   name : Evidence synthesis
+- description: 
+  icon : users
+  icon_pack : fas
+  name : Human behaviour
+- description: 
+  icon : school
+  icon_pack : fas
+  name : Education
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
