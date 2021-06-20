@@ -45,7 +45,36 @@ experience:
     date_start: '2020-06-01'
     date_end: '2020-12-09'
     description: A leadership responsibility for the activities of Cochrane Ireland with a focus on developing and maintaining strategic partnerships in the Cochrane community 
+ 
+ - title: Research Fellow
+    company: Campbell UK & Ireland
+    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+    # company_logo: org-gc
+    location: Belfast
+    date_start: '2017-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Advancing evidence synthesis methods
+        * Leading review teams
+        * Mentoring other staff
+        * Teaching
 
+  - title: Research Fellow
+    company: Campbell UK & Ireland
+    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+    # company_logo: org-gc
+    location: Belfast
+    date_start: '2017-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Advancing evidence synthesis methods
+        * Leading review teams
+        * Mentoring other staff
+        * Teaching
 design:
   columns: '2'
 ---
