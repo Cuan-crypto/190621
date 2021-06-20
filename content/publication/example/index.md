@@ -43,7 +43,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/akT1bnnuMMk)"
   focal_point: ""
   preview_only: false
-  filename: eric-ward-akt1bnnummk-unsplash.jpg
+  filename: featured.jpg
 date: 2021-06-19T19:38:56.533Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
