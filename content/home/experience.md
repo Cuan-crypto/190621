@@ -46,35 +46,23 @@ experience:
     date_end: '2020-12-09'
     description: A leadership responsibility for the activities of Cochrane Ireland with a focus on developing and maintaining strategic partnerships in the Cochrane community 
  
- - title: Research Fellow
-    company: Campbell UK & Ireland
-    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+ - title: Editorial Assistant
+    company: Cochrane Collaboration
+    company_url: 'https://dplp.cochrane.org/'
     # company_logo: org-gc
     location: Belfast
-    date_start: '2017-11-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Advancing evidence synthesis methods
-        * Leading review teams
-        * Mentoring other staff
-        * Teaching
+    date_start: '2017-03-01'
+    date_end: '2017-07-01'
+    description: Editorial assistance for Cochrane Developmental, Psychosocial and Learning Problems group
 
-  - title: Research Fellow
-    company: Campbell UK & Ireland
-    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+  - title: Systematic Reviewer
+    company: Klejnen Systematic Reviews Ltd.
+    company_url: 'https://www.systematic-reviews.com/'
     # company_logo: org-gc
-    location: Belfast
-    date_start: '2017-11-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Advancing evidence synthesis methods
-        * Leading review teams
-        * Mentoring other staff
-        * Teaching
+    location: York, England
+    date_start: '2017-03-01'
+    date_end: '2017-10-01'
+    description: 
 design:
   columns: '2'
 ---
