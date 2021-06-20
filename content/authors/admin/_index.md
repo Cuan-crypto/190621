@@ -20,7 +20,9 @@ bio: My research interests include systematic reviews, meta-analyses, race, ethn
 interests:
 - Evidence Synthesis
 - Information Retrieval
-- Anthropology
+- Social behaviour
+- Diversity and inclusion
+- R stats
 
 # Education to show in About widget
 education:
