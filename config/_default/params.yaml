@@ -34,7 +34,7 @@ coordinates:
   longitude: '-5.937091'
 directions: Enter Building 8 and ask reception to call me
 office_hours:
-  - 'Monday to Friday 07:00 to 15:00'
+  - 'Monday to Friday 09:00 to 17:00'
 appointment_url: 'https://calendly.com/c-keenan'
 contact_links:
   - icon: twitter
