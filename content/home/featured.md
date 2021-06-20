@@ -17,5 +17,5 @@ content:
 design:
   view: 3
   background:
-    image: eric-ward-akt1bnnummk-unsplash.jpg
+    image: featured.jpg
 ---
