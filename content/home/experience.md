@@ -45,7 +45,6 @@ experience:
     date_start: '2020-06-01'
     date_end: '2020-12-09'
     description: A leadership responsibility for the activities of Cochrane Ireland with a focus on developing and maintaining strategic partnerships in the Cochrane community 
- 
  - title: Editorial Assistant
     company: Cochrane Collaboration
     company_url: 'https://dplp.cochrane.org/'
@@ -54,7 +53,6 @@ experience:
     date_start: '2017-03-01'
     date_end: '2017-07-01'
     description: Editorial assistance for Cochrane Developmental, Psychosocial and Learning Problems group
-
   - title: Systematic Reviewer
     company: Klejnen Systematic Reviews Ltd.
     company_url: 'https://www.systematic-reviews.com/'
