@@ -20,22 +20,21 @@ authors:
   - Peter Mackie
   - Suzanne Fitzpatrick
   - John Cowman
+author_notes: []
+publication: In *Campbell Systematic Reviews*
 summary: This review examines the effectiveness of accommodation-based
   approaches on outcomes including housing stability, health, employment, crime,
   wellbeing, and cost for individuals experiencing or at risk of experiencing
   homelessness.
 url_dataset: ""
 url_project: ""
-author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: In *Campbell Systematic Reviews*
-featured: true
-date: 2021-06-19T19:38:56.533Z
-url_slides: ""
 title: Accommodation-based interventions for individuals experiencing, or at
   risk of experiencing, homelessness
+doi: https://doi.org/10.1002/cl2.1165
+featured: true
 tags:
   - homelessness
 projects:
@@ -44,11 +43,12 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/akT1bnnuMMk)"
   focal_point: ""
   preview_only: false
-  filename: https://unsplash.com/photos/akT1bnnuMMk
-publishDate: 2017-01-01T00:00:00Z
+  filename: eric-ward-akt1bnnummk-unsplash.jpg
+date: 2021-06-19T19:38:56.533Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1002/cl2.1165
 ---
 
 {{% callout note %}}
