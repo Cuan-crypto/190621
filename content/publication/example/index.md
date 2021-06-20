@@ -7,7 +7,7 @@ abstract: >-
 
   This review examines the effectiveness of accommodation-based approaches on outcomes including housing stability, health, employment, crime, wellbeing, and cost for individuals experiencing or at risk of experiencing homelessness.
 slides: example
-url_pdf: ""
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/cl2.1165"
 publication_types:
   - "2"
 authors:
@@ -51,12 +51,3 @@ url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
