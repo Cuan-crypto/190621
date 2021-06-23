@@ -10,6 +10,7 @@ authors:
   - B. T.
   - "& Keenan"
   - C.
+doi: 10.1111/aphw.12169
 publication_short: "Applied Psychology: Health and Well‐Being"
 draft: false
 featured: false
