@@ -34,7 +34,7 @@ item:
 - certificate_url: ''
   date_end: ""
   date_start: "2019-04-17"
-  description: A workshop on network meta-anaylsis with world leading methodologist Professor Pigot
+  description: A workshop on network meta-anaylsis with world leading methodologist Professor Pigott
   organization: Centre for Evidence and Social Innovation
   organization_url: https://www.qub.ac.uk/research-centres/cesi/
   title: Network Meta-Analysis
