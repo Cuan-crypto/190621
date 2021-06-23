@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Missingness in meta-analysis
+summary: Examining solutions to the missingness issue in meta-analysis
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- statistics
+date: "2020-11-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://figshare.com/projects/Examining_solutions_to_the_missingness_issue_in_meta-analysis/93065"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/metaevidence
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,15 +27,17 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Statisticians are often met with a dataset which has missing data across potentially important study characteristics. If the data were complete, effects can be estimated in a controlled way, using techniques analogous to weighted-least squares multiple regression analysis. However, where data are missing and the dataset is incomplete, statisticians have two options: 1) drop the studies which are missing data from the analysis or 2) drop the study characteristics that are missing data. This becomes an untenable solution for many as the missingness often occurs in variables which the methodologist believes may be covariates associated with the magnitude of treatment effect. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+This study forms part of Dr Ciara Keenan’s master’s degree in Biostatistics. Ciara's masters is being supervised by Professor John Newell, School of Mathematics, Statistics and Applied Mathematics in NUI Galway and will be conducted in four stages. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Stage one will be to complete and share a protocol for a systematic review on the available literature related to missingness in meta-analysis.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Stage two will be to complete a systematic review on the available literature related to missingness in meta-analysis. The information uncovered will be summarised narratively and provide an overview of current understanding and gaps in evidence. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Stage three will be to develop a shiny app which interested users can access. The app will allow users to simulate missing values in a dataset using three types of missingness: 1) missing at random (MAR) 2) missing completely at random (MCAR) 3) not missing at random (NMAR)
+
+Stage four will be to test various imputation techniques on a simulated dataset. These techniques will be based on the information uncovered in stage two and will be the imputation methods most used in meta-analysis. The objective of this final study is to ascertain which imputation method is most useful for the three types of missingness outlined above.

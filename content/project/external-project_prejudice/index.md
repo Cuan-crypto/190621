@@ -13,7 +13,7 @@ slides: ""
 summary: "Universal Preschool‐ and School‐based Education Programmes for Reducing Ethnic Prejudice and Promoting Respect for Diversity among Children Aged 3‐11: A Systematic Review and Meta‐Analysis"
 tags:
 - Methods, Education
-title: "Systematic Review and Meta-Analysis"
+title: "Ethnic Prejudice in school children"
 url_code: ""
 url_pdf: ""
 url_slides: ""
