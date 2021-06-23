@@ -1,0 +1,21 @@
+---
+title: Best practice guidelines and essential methodological steps to conduct
+  rigorous and systematic meta‐reviews
+publication_types:
+  - "2"
+authors:
+  - Hennessy
+  - E. A.
+  - Johnson
+  - B. T.
+  - "& Keenan"
+  - C.
+publication_short: "Applied Psychology: Health and Well‐Being"
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2021-06-23T18:50:38.155Z
+---
