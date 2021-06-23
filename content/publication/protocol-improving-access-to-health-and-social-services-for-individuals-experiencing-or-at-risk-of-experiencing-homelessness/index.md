@@ -2,7 +2,7 @@
 title: "PROTOCOL: Improving access to health and social services for individuals
   experiencing, or at risk of experiencing, homelessness."
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Miller
   - S.
