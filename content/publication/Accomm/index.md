@@ -6,7 +6,7 @@ abstract: >-
 
 
   This review examines the effectiveness of accommodation-based approaches on outcomes including housing stability, health, employment, crime, wellbeing, and cost for individuals experiencing or at risk of experiencing homelessness.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -39,7 +39,7 @@ title: Accommodation-based interventions for individuals experiencing, or at
 tags:
   - homelessness
 projects:
-  - example
+  ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/akT1bnnuMMk)"
   focal_point: ""
@@ -50,13 +50,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1002/cl2.1165
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

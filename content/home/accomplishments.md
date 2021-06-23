@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ''
+  date_end: "2021-07-30"
+  date_start: "2021-07-19"
+  description: I am working towards FHEA fellowship status via the Queen’s Merit Award and have a confirmed place on the 3rd of November 2021 panel after which advance higher education accreditors will review my application and reach a decision.
+  organization: QMA HEA Fellowships
+  organization_url: ""
+  title: FHEA fellowship status 
+  url: https://www.qub.ac.uk/directorates/AcademicStudentAffairs/CentreforEducationalDevelopment/CoursesEventsProfessionalRecognition/HEA/
+- certificate_url: ''
   date_end: ""
   date_start: "2019-04-17"
   description: A workshop on network meta-anaylsis with world leading methodologist Professor Pigot
