@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/metaevidence
 slides: ""
-summary: "Universal Preschool‐ and School‐based Education Programmes for Reducing Ethnic Prejudice and Promoting Respect for Diversity among Children Aged 3‐11: A Systematic Review and Meta‐Analysis"
+summary: "A Systematic Review and Meta‐Analysis looking at Universal Preschool‐ and School‐based Education Programmes for Reducing Ethnic Prejudice and Promoting Respect for Diversity among Children Aged 3‐11"
 tags:
 - Methods, Education
 title: "Ethnic Prejudice in school children"
