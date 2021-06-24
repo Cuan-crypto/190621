@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Fellow
+  - title: Research Fellow (0.6 FTE)
     company: Campbell UK & Ireland
     company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Belfast
     date_start: '2017-11-01'
     date_end: ''
@@ -35,17 +35,39 @@ experience:
         * Advancing evidence synthesis methods
         * Leading review teams
         * Mentoring other staff
-        * Teaching
-        
+        * Teaching       
+  - title: Research Fellow (0.4 FTE)
+    company: School of Psychology
+    company_url: 'https://www.qub.ac.uk/schools/psy/'
+    #company_logo: org-x
+    location: Belfast
+    date_start: '2021-06-01'
+    date_end: ''
+    description: Working on the COHeRe 2 project. PI - Professor Martin Dempster 
   - title: Associate Director
     company: Cochrane Ireland
     company_url: 'https://ireland.cochrane.org/welcome'
-    company_logo: org-x
+    #company_logo: org-x
     location: Galway
     date_start: '2020-06-01'
     date_end: '2020-12-09'
     description: A leadership responsibility for the activities of Cochrane Ireland with a focus on developing and maintaining strategic partnerships in the Cochrane community 
-
+  - title: Systematic reviewer
+    company: Klejnen Systematic Reviews Ltd.
+    company_url: 'https://www.systematic-reviews.com/'
+    #company_logo: org-x
+    location: York
+    date_start: '2017-03-01'
+    date_end: '2017-10-01'
+    description: "" 
+  - title: Editorial Assistant
+    company: Cochrane Collaboration
+    company_url: 'https://dplp.cochrane.org/'
+    #company_logo: org-x
+    location: Belfast
+    date_start: '2017-03-01'
+    date_end: '2017-07-01'
+    description: "" 
 design:
-  columns: '2'
+  columns: '5'
 ---
