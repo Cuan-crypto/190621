@@ -30,7 +30,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://unsplash.com/photos/7r7-7RLdwCU
   focal_point: Smart
   preview_only: false
 date: 2019-06-19T19:38:56.533Z
