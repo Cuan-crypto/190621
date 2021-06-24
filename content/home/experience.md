@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: Campbell UK & Ireland
     company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
-    # company_logo: org-gc
+    company_logo: org-gc
     location: Belfast
     date_start: '2017-11-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Associate Director
     company: Cochrane Ireland
     company_url: 'https://ireland.cochrane.org/welcome'
-    #company_logo: org-x
+    company_logo: org-x
     location: Galway
     date_start: '2020-06-01'
     date_end: '2020-12-09'
