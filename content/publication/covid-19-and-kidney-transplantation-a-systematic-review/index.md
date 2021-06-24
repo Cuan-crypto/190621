@@ -20,7 +20,7 @@ authors:
 doi: https://doi.org/10.1016/j.ekir.2020.10.023
 publication_short: Kidney international reports
 abstract: >-
-  Introduction
+  ##Introduction
 
   Kidney transplant recipients are at increased susceptibility to many viral infections leading to justifiable anxiety about the effects of coronavirus disease 2019 (COVID-19).
 

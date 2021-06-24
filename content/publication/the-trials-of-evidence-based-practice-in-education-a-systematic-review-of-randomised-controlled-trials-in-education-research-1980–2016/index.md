@@ -12,13 +12,7 @@ authors:
   - K.
 doi: https://doi.org/10.1080/00131881.2018.1493353
 publication_short: Educational Research
-draft: false
-featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-summary: >-
+abstract: >-
   Background: The use of randomised controlled trials (RCTs) in education has
   increased significantly over the last 15 years. However, their use has also
   been subject to sustained and rather trenchant criticism from significant
@@ -39,5 +33,12 @@ summary: >-
 
 
   Conclusions: While providing evidence to counter the four criticisms outlined earlier, the article suggests that there remains significant progress to be made. The article concludes by outlining some key challenges for researchers undertaking RCTs in education.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+summary: ""
 date: 2018-06-19T19:38:56.533Z
 ---
