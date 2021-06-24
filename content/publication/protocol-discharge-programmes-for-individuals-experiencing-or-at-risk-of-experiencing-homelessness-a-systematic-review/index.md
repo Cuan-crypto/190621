@@ -2,7 +2,7 @@
 title: "PROTOCOL: Discharge programmes for individuals experiencing, or at risk
   of experiencing, homelessness: A systematic review. "
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Hanratty
   - J.
