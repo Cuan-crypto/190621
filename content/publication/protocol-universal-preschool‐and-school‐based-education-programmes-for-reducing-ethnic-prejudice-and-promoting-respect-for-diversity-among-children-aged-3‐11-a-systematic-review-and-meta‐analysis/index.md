@@ -3,7 +3,7 @@ title: "PROTOCOL: universal preschool‐and school‐based education programmes 
   reducing ethnic prejudice and promoting respect for diversity among children
   aged 3‐11: A systematic review and meta‐analysis. "
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Keenan
   - C.
