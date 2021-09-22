@@ -10,8 +10,8 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Campbell UK & Ireland 
-  url: https://www.qub.ac.uk/research-centres/CampbellUKIreland/
+- name: Queen's University, Belfast
+  url: https://www.qub.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include systematic reviews, meta-analyses, race, ethnicity, diversity, homelessness, disability, vulnerable and marginalised groups, post conflict society. 
