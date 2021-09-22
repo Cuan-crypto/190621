@@ -22,21 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Fellow (0.6 FTE)
-    company: Campbell UK & Ireland
-    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
-    #company_logo: org-gc
-    location: Belfast
-    date_start: '2017-11-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Advancing evidence synthesis methods
-        * Leading review teams
-        * Mentoring other staff
-        * Teaching       
-  - title: Research Fellow (0.4 FTE)
+ - title: Research Fellow 
     company: School of Psychology
     company_url: 'https://www.qub.ac.uk/schools/psy/'
     #company_logo: org-x
@@ -44,6 +30,20 @@ experience:
     date_start: '2021-06-01'
     date_end: ''
     description: Working on the COHeRe 2 project. PI - Professor Martin Dempster 
+  - title: Research Fellow 
+    company: Campbell UK & Ireland
+    company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
+    #company_logo: org-gc
+    location: Belfast
+    date_start: '2017-11-01'
+    date_end: '2021-08-01'
+    description: |2-
+        Responsibilities included:
+        
+        * Advancing evidence synthesis methods
+        * Leading review teams
+        * Mentoring other staff
+        * Teaching       
   - title: Associate Director
     company: Cochrane Ireland
     company_url: 'https://ireland.cochrane.org/welcome'
