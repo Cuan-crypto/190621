@@ -66,10 +66,10 @@ email: ""
 highlight_name: true
 ---
 Hi. 
-My name is Ciara Keenan and I am a post-doctoral researcher with strong quantitative background and an established international reputation in evidence synthesis methodology. Throughout my higher education and post-doctoral posts, I have been most responsive to research investigating how inequalities shape society and how these poor outcomes can be transgenerational. 
+My name is Ciara Keenan and I am a post-doctoral researcher with strong quantitative background and an established international reputation in evidence synthesis methodology. I am proficient with the R statistical environment and use this for all meta-analysis including meta-regression, network meta-analysis, obtaining cluster-robust variances etc. 
 
 I am most committed to capacity building in evidence synthesis which has led to my work as Founder and Editor of the [meta-evidence blog]( http://meta-evidence.co.uk/) and twitter’s [@evidencerobot]( https://twitter.com/EvidenceRobot) and [@COVID_Evidence](https://twitter.com/COVID_Evidence). I provide regular training and workshops across various evidence synthesis topics and am currently leading several review teams. In conjunction with these roles, I am a Methods Editor and Information Retrieval specialist for Campbell’s Education Coordinating Group (ECG).
 
-**Fields of concentration:** systematic reviews | meta-analyses | race | ethnicity | diversity | homelessness | disability | vulnerable and marginalised groups | post-conflict societies 
+**Fields of concentration:** systematic reviews | meta-analyses | Education | race | ethnicity | diversity | homelessness | disability | vulnerable and marginalised groups | post-conflict societies 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
