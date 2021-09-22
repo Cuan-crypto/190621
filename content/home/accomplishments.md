@@ -24,6 +24,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ''
+  date_end: "2021-09-22"
+  date_start: "2021-09-20"
+  description: Three day workshop on component NMA. Facilitators include
+
+Dr Deborah M Caldwell (University of Bristol)  
+
+Dr Suzanne Freeman (University of Leicester, NIHR Complex Reviews Support Unit) 
+
+Professor GJ Melendez-Torres (University of Exeter, PenTAG) 
+
+Professor Nicky J Welton (University of Bristol, NICE Guidelines Technical Support Unit) 
+  organization: Campbell UK & Ireland
+  organization_url: ""
+  title: Evidence Synthesis with Complex Interventions - Component Network Meta-Analysis
+  url: https://www.qub.ac.uk/research-centres/CampbellUKIreland/
+- certificate_url: ''
   date_end: "2021-07-30"
   date_start: "2021-07-19"
   description: I am working towards FHEA fellowship status via the Queen’s Merit Award and have a confirmed place on the 3rd of November 2021 panel after which advance higher education accreditors will review my application and reach a decision.
