@@ -38,8 +38,7 @@ experience:
     date_start: '2017-11-01'
     date_end: '2021-08-01'
     description: |2-
-        Responsibilities included:
-        
+        Responsibilities included:        
         * Advancing evidence synthesis methods
         * Leading review teams
         * Mentoring other staff
