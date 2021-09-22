@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Fellow 
+  - title: Research Fellow 
     company: School of Psychology
     company_url: 'https://www.qub.ac.uk/schools/psy/'
-    #company_logo: org-x
-    location: Belfast
+    company_logo: org-gc
+    location: Queen's University, Belfast
     date_start: '2021-06-01'
     date_end: ''
-    description: Working on the COHeRe 2 project. PI - Professor Martin Dempster 
+    description: Working on the COHeRe 2 project. PI - Professor Martin Dempster.        
   - title: Research Fellow 
     company: Campbell UK & Ireland
     company_url: 'https://www.qub.ac.uk/research-centres/CampbellUKIreland/'
