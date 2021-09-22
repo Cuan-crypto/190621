@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Research Fellow 
+- title: Research Fellow 
     company: School of Psychology
     company_url: 'https://www.qub.ac.uk/schools/psy/'
     #company_logo: org-x
