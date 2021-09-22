@@ -26,15 +26,7 @@ item:
 - certificate_url: ''
   date_end: "2021-09-22"
   date_start: "2021-09-20"
-  description: Three day workshop on component NMA. Facilitators include
-
-Dr Deborah M Caldwell (University of Bristol)  
-
-Dr Suzanne Freeman (University of Leicester, NIHR Complex Reviews Support Unit) 
-
-Professor GJ Melendez-Torres (University of Exeter, PenTAG) 
-
-Professor Nicky J Welton (University of Bristol, NICE Guidelines Technical Support Unit) 
+  description: Three day workshop on component NMA. Facilitators included Dr Deborah M Caldwell (University of Bristol), Dr Suzanne Freeman (University of Leicester, NIHR Complex Reviews Support Unit), Professor GJ Melendez-Torres (University of Exeter, PenTAG), and Professor Nicky J Welton (University of Bristol, NICE Guidelines Technical Support Unit). 
   organization: Campbell UK & Ireland
   organization_url: ""
   title: Evidence Synthesis with Complex Interventions - Component Network Meta-Analysis
