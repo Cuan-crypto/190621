@@ -1,6 +1,5 @@
 ---
-abstract: Chair- Ciara Keenan, Campbell UK & Ireland
-Panelists- James Thomas, EPPI-Centre; Vivian Welch, Campbell Collaboration; Karin Hannes, SoMeTHin'K
+abstract: "Chair- Ciara Keenan, Campbell UK & Ireland. Panelists- James Thomas, EPPI-Centre; Vivian Welch, Campbell Collaboration; Karin Hannes, SoMeTHin'K"
 address:
   city: 
   country: 
