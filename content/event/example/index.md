@@ -1,34 +1,35 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: Chair- Ciara Keenan, Campbell UK & Ireland
+Panelists- James Thomas, EPPI-Centre; Vivian Welch, Campbell Collaboration; Karin Hannes, SoMeTHin'K
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: 
+  country: 
+  postcode: 
+  region: 
+  street: 
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
-featured: false
+date: 2021-10-26T10:45:00.000Z
+date_end: 2021-10-18T12:00:00.000Z
+event: Online Conference
+event_url: https://www.gdn.int/evidence4dev
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/1lfI7wkGWZ4)'
   focal_point: Right
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+  url: https://twitter.com/MetaEvidence
+location: 
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: 
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: 
 tags: []
-title: Example Talk
+title: The future of evidence synthesis
 url_code: ""
 url_pdf: ""
 url_slides: ""
