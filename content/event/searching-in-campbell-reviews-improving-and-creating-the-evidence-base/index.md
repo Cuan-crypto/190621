@@ -20,7 +20,6 @@ image:
   focal_point: right
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/afW1hht0NSs)"
-
 title: "The future of evidence synthesis"
 abstract: Chair: Ciara Keenan, Campbell UK & Ireland
 Panelists:
